@@ -1,0 +1,24 @@
+{
+  "name": "f8-project-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass scss:assets/css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dattvoo/learn_project8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dattvoo/learn_project8/issues"
+  },
+  "homepage": "https://github.com/dattvoo/learn_project8#readme",
+  "devDependencies": {
+    "sass": "^1.77.7"
+  }
+}
